@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import profilePic from './assets/profile.jpg';
+import backgroundMusic from './assets/background-music.mp3';
 import BubbleBackground from './BubbleBackground.jsx';
 import Cursor from './Cursor.jsx';
 
@@ -202,7 +203,7 @@ function App() {
       <Cursor />
       <div className="grid-overlay" />
       <audio ref={audioRef} loop preload="none">
-        <source src="/background-music.mp3" type="audio/mpeg" />
+        <source src={backgroundMusic} type="audio/mpeg" />
         Your browser does not support the audio element.
       </audio>
       <nav className="top-nav">
