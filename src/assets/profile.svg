@@ -1,0 +1,20 @@
+<svg width="540" height="540" viewBox="0 0 540 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="540" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11254A" />
+      <stop offset="1" stop-color="#0C1830" />
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="540" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22B2FF" />
+      <stop offset="1" stop-color="#4B6FFF" />
+    </linearGradient>
+  </defs>
+  <rect width="540" height="540" rx="32" fill="url(#bg)" />
+  <circle cx="270" cy="220" r="100" fill="rgba(93, 179, 255, 0.16)" stroke="url(#stroke)" stroke-width="8" />
+  <circle cx="270" cy="220" r="64" fill="#0E2040" />
+  <path d="M220 324C220 289.892 248.892 261 283 261H309C343.108 261 372 289.892 372 324V360H220V324Z" fill="rgba(22, 126, 255, 0.28)" />
+  <path d="M286 338C285.153 335.279 284.8 332.409 284.8 329.5C284.8 315.032 294.532 302.434 307.5 296.384" stroke="#7FD1FF" stroke-width="6" stroke-linecap="round" />
+  <path d="M214 318C214 286.981 241.981 259 273 259H267C298.019 259 326 286.981 326 318V333H214V318Z" fill="#13234F" />
+  <text x="270" y="466" text-anchor="middle" fill="#D1E9FF" font-family="Inter, sans-serif" font-size="40" font-weight="700">ART SIMON</text>
+  <text x="270" y="506" text-anchor="middle" fill="#86BBFF" font-family="Inter, sans-serif" font-size="20">PROFILE PHOTO</text>
+</svg>
