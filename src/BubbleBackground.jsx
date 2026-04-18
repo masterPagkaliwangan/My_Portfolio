@@ -5,7 +5,6 @@ function BubbleBackground() {
   const mouse = useRef({ x: null, y: null });
   const bubbles = useRef([]);
   const pulses = useRef([]);
-  const heroAttractor = useRef({ x: null, y: null, radius: 0 });
   const animationRef = useRef(null);
 
   useEffect(() => {

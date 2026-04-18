@@ -191,7 +191,7 @@ function App() {
       title: 'OOP Game Project',
       description: 'A game project built using Object-Oriented Programming principles, showcasing design patterns and modular code structure.',
       tags: ['IoT', 'Python', 'Embedded Systems'],
-      demoUrl: 'c:\Users\Lance Kelly\Downloads\PIX RUN.exe',
+      demoUrl: 'c:\\Users\\Lance Kelly\\Downloads\\PIX RUN.exe',
       githubUrl: 'https://drive.google.com/drive/folders/1DfUfRDimdE9Q3DQSWgDTjUump9gApA60?usp=sharing',
     },
   ];
