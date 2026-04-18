@@ -201,7 +201,7 @@ function App() {
       <BubbleBackground />
       <Cursor />
       <div className="grid-overlay" />
-      <audio ref={audioRef} loop preload="auto">
+      <audio ref={audioRef} loop preload="none">
         <source src="/background-music.mp3" type="audio/mpeg" />
         Your browser does not support the audio element.
       </audio>
